@@ -1,3 +1,2 @@
-# Learning_rust
+### Rust Contracts 
 
-### Build Your Own Shell - code crafters
