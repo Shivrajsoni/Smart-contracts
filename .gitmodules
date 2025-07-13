@@ -1,3 +1,6 @@
 [submodule "bonding-curve"]
 	path = bonding-curve
 	url = git@github.com:Shivrajsoni/bonding-curve.git
+[submodule "Soffer"]
+	path = Soffer
+	url = git@github.com:Shivrajsoni/Soffer.git
