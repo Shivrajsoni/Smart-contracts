@@ -4,3 +4,6 @@
 [submodule "Soffer"]
 	path = Soffer
 	url = git@github.com:Shivrajsoni/Soffer.git
+[submodule "lending"]
+	path = lending
+	url = git@github.com:Shivrajsoni/lending_program.git
